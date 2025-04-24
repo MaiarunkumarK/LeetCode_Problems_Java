@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/MaiarunkumarK/LeetCode_Problems_Java/tree/master/0004-median-of-two-sorted-arrays) |
+| [0046-permutations](https://github.com/MaiarunkumarK/LeetCode_Problems_Java/tree/master/0046-permutations) |
 ## Binary Search
 |  |
 | ------- |
@@ -13,4 +14,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/MaiarunkumarK/LeetCode_Problems_Java/tree/master/0004-median-of-two-sorted-arrays) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/MaiarunkumarK/LeetCode_Problems_Java/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
