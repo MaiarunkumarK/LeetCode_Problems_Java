@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/MaiarunkumarK/LeetCode_Problems_Java/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/MaiarunkumarK/LeetCode_Problems_Java/tree/master/0242-valid-anagram) |
 | [1078-remove-outermost-parentheses](https://github.com/MaiarunkumarK/LeetCode_Problems_Java/tree/master/1078-remove-outermost-parentheses) |
 ## Stack
@@ -35,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/MaiarunkumarK/LeetCode_Problems_Java/tree/master/0242-valid-anagram) |
+## Two Pointers
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/MaiarunkumarK/LeetCode_Problems_Java/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
