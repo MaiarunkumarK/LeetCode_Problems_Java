@@ -18,4 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/MaiarunkumarK/LeetCode_Problems_Java/tree/master/0046-permutations) |
+## String
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/MaiarunkumarK/LeetCode_Problems_Java/tree/master/1078-remove-outermost-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/MaiarunkumarK/LeetCode_Problems_Java/tree/master/1078-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
