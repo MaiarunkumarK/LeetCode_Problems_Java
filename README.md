@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/MaiarunkumarK/LeetCode_Problems_Java/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/MaiarunkumarK/LeetCode_Problems_Java/tree/master/0242-valid-anagram) |
 | [1078-remove-outermost-parentheses](https://github.com/MaiarunkumarK/LeetCode_Problems_Java/tree/master/1078-remove-outermost-parentheses) |
+| [2032-largest-odd-number-in-string](https://github.com/MaiarunkumarK/LeetCode_Problems_Java/tree/master/2032-largest-odd-number-in-string) |
 ## Stack
 |  |
 | ------- |
@@ -40,4 +41,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/MaiarunkumarK/LeetCode_Problems_Java/tree/master/0151-reverse-words-in-a-string) |
+## Math
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/MaiarunkumarK/LeetCode_Problems_Java/tree/master/2032-largest-odd-number-in-string) |
+## Greedy
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/MaiarunkumarK/LeetCode_Problems_Java/tree/master/2032-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
